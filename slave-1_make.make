@@ -140,9 +140,6 @@ projects[link][version] = "1.2"
 ; Menu Block
 projects[menu_block][version] = "2.3"
 
-; Menu Item Visibility
-projects[menu_item_visibility][version] = "2.3"
-
 ; Meta tags quick
 projects[metatags_quick][version] = "2.7"
 
