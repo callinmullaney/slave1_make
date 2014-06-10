@@ -1,15 +1,15 @@
-# CallinMullaney Make Drupal Installation
+# Slave 1 Make Drupal Installation
 
-This Document describes all the necessary steps to install Drupal using callinmullaney_make.
+This Document describes all the necessary steps to install Drupal using slave-1_make.
 
 
-### Clone CallinMullaney Make
+### Clone Slave 1 Make
 Create the domain folder inside your projects folder.
 Inside domain folder run the following command.
 
-    $ git clone git://github.com/callinmullaney/callinmullaney_make.git
+    $ git clone git://github.com/callinmullaney/slave-1_make.git
 
 ### Download Drupal and Contrib files with drush make
 
-    drush make callinmullaney_make/callinmullaney_make.make .
+    drush make slave-1_make/slave-1_make.make .
     
