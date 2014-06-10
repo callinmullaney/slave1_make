@@ -4,7 +4,7 @@
 ; Default installation with commonly used modules
 ; and configuration settings. 
 ;
-; Run drush make slave-1_make.make
+; Run drush make slave1_make.make
 ;
 ; =============================================
 
@@ -287,7 +287,7 @@ projects[page_content][download][url] = "git@github.com:callinmullaney/page_cont
 ; Install Profiles
 ; =============================================
 
-projects[slave-1_profile][type] = "profile"
-projects[slave-1_profile][subdir] = ""
-projects[slave-1_profile][download][type] = "git"
-projects[slave-1_profile][download][url] = "git@github.com:callinmullaney/slave-1_profile.git"
+projects[slave1_profile][type] = "profile"
+projects[slave1_profile][subdir] = ""
+projects[slave1_profile][download][type] = "git"
+projects[slave1_profile][download][url] = "git@github.com:callinmullaney/slave1_profile.git"
