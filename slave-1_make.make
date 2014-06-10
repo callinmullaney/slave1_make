@@ -276,10 +276,14 @@ libraries[colorbox][type] = "library"
 
 
 ; =============================================
-; Content type base features
+; Features
 ; =============================================
 
-
+; @see https://github.com/callinmullaney/page_content
+projects[page_content][type] = "module"
+projects[page_content][subdir] = "custom"
+projects[page_content][download][type] = "git"
+projects[page_content][download][url] = "git@github.com:callinmullaney/page_content.git"
 
 
 ; =============================================
