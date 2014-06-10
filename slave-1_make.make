@@ -214,9 +214,6 @@ projects[xmlsitemap][version] = "2.0"
 
 
 
-;----- Project Specific Contrib Modules -------
-
-
 ; =============================================
 ; Custom Modules - Custom
 ; =============================================
