@@ -290,4 +290,4 @@ projects[page_content][download][url] = "git@github.com:callinmullaney/page_cont
 projects[slave-1_profile][type] = "profile"
 projects[slave-1_profile][subdir] = ""
 projects[slave-1_profile][download][type] = "git"
-projects[slave-1_profile][download][url] = "git://github.com/callinmullaney/slave-1_profile.git"
+projects[slave-1_profile][download][url] = "git@github.com:callinmullaney/slave-1_profile.git"
