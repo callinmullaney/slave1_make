@@ -26,12 +26,6 @@ projects[drupal][subdir] = ''
 ; Address Field
 projects[addressfield][version] = "1.0-beta5"
 
-; Administration Menu 
-projects[admin_menu][version] = "3.0-rc4"
-
-; Adminimal Admin Menu 
-projects[adminimal_admin_menu][version] = "1.5"
-
 ; Advanced Text Formatter
 projects[advanced_text_formatter][version] = "1.4"
 
@@ -52,15 +46,6 @@ projects[context][version] = "3.2"
 
 ; Chaos tool suite
 projects[ctools][version] = "1.4"
-
-; CKEditor - WYSIWYG HTML editor
-projects[ckeditor][version] = "1.14"
-
-; CKEditor Link
-projects[ckeditor_link][version] = "2.3"
-
-; CKEditor Link File
-projects[ckeditor_link_file][version] = "1.3"
 
 ; Crumbs, the breadcrumbs suite
 projects[crumbs][version] = "2.0-beta13"
@@ -217,14 +202,23 @@ projects[xmlsitemap][version] = "2.0"
 
 ; Set before each module - projects[][subdir] = "custom"
 
-; Sonar
+; Asset
 ;
-; Compass compiler for Drupal
-; @see https://github.com/JaceRider/Sonar/tree/develop
-projects[Sonar][subdir] = "custom"
-projects[Sonar][type] = "module"
-projects[Sonar][download][type] = "git"
-projects[Sonar][download][url] = "git@github.com:JaceRider/Sonar.git"
+; A Drupal module which adds entity based assets for various uses.
+; @see https://github.com/JaceRider/Asset
+projects[Asset][subdir] = "custom"
+projects[Asset][type] = "module"
+projects[Asset][download][type] = "git"
+projects[Asset][download][url] = "git@github.com:JaceRider/Asset.git"
+
+; eXo
+;
+; HTML5 editor integrated heavily with Drupal.
+; @see https://github.com/JaceRider/eXo
+projects[eXo][subdir] = "custom"
+projects[eXo][type] = "module"
+projects[eXo][download][type] = "git"
+projects[eXo][download][url] = "git@github.com:JaceRider/eXo.git"
 
 ; Fawesome
 ;
@@ -234,6 +228,24 @@ projects[Fawesome][subdir] = "custom"
 projects[Fawesome][type] = "module"
 projects[Fawesome][download][type] = "git"
 projects[Fawesome][download][url] = "git@github.com:JaceRider/Fawesome.git"
+
+; Sonar
+;
+; Compass compiler for Drupal
+; @see https://github.com/JaceRider/Sonar/tree/develop
+projects[Sonar][subdir] = "custom"
+projects[Sonar][type] = "module"
+projects[Sonar][download][type] = "git"
+projects[Sonar][download][url] = "git@github.com:JaceRider/Sonar.git"
+
+; Valet
+;
+; Compass compiler for Drupal
+; @see https://github.com/JaceRider/Valet
+projects[Valet][subdir] = "custom"
+projects[Valet][type] = "module"
+projects[Valet][download][type] = "git"
+projects[Valet][download][url] = "git@github.com:JaceRider/Valet.git"
 
 
 ; =============================================
@@ -258,12 +270,6 @@ projects[Fett][download][url] = "git@github.com:JaceRider/Fett.git"
 ; =============================================
 ; Libraries
 ; =============================================
-
-; CKEditor 4.4.1
-libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor 4.4.1/ckeditor_4.4.1_standard.zip"
-libraries[ckeditor][directory_name] = "ckeditor"
-libraries[ckeditor][type] = "library"
 
 ; Colorbox
 libraries[colorbox][download][type] = "get"
