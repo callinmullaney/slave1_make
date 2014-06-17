@@ -277,6 +277,18 @@ libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/arch
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
 
+; JQuery.Hotkeys
+libraries[jquery.hotkeys][download][type] = "get"
+libraries[jquery.hotkeys][download][url] = "https://github.com/jeresig/jquery.hotkeys/archive/master.zip"
+libraries[jquery.hotkeys][directory_name] = "jquery.hotkeys"
+libraries[jquery.hotkeys][type] = "library"
+
+; Lawnchair
+libraries[lawnchair][download][type] = "get"
+libraries[lawnchair][download][url] = "http://brian.io/lawnchair/downloads/lawnchair-0.6.1.min.js"
+libraries[lawnchair][directory_name] = "lawnchair"
+libraries[lawnchair][type] = "library"
+
 
 ; =============================================
 ; Features
