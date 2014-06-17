@@ -11,5 +11,5 @@ Inside domain folder run the following command.
 
 ### Download Drupal and Contrib files with drush make
 
-    drush make slave-1_make/slave1_make.make .
+    drush make slave1_make/slave1_make.make .
     
