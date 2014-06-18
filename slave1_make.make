@@ -211,6 +211,16 @@ projects[Asset][type] = "module"
 projects[Asset][download][type] = "git"
 projects[Asset][download][url] = "git@github.com:JaceRider/Asset.git"
 
+; Easy Admin
+;
+; Creates a client focused admin menu.
+; @see https://github.com/callinmullaney/easy_admin
+projects[easy_admin][subdir] = "custom"
+projects[easy_admin][type] = "module"
+projects[easy_admin][download][type] = "git"
+projects[easy_admin][download][url] = "git@github.com:callinmullaney/easy_admin.git"
+
+
 ; eXo
 ;
 ; HTML5 editor integrated heavily with Drupal.
