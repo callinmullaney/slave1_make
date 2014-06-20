@@ -66,7 +66,7 @@ projects[devel][version] = "1.5"
 projects[draggableviews][version] = "2.0"
 
 ; Email
-projects[email][version] = "1.2"
+projects[email][version] = "1.3"
 
 ; Entity API
 projects[entity][version] = "1.5"
@@ -114,7 +114,7 @@ projects[imce][version] = "1.8"
 projects[inline_entity_form][version] = "1.5"
 
 ; JQuery Update
-projects[jquery_update][version] = "2.x-dev"
+projects[jquery_update][version] = "2.4"
 
 ; Libraries
 projects[libraries][version] = "2.2"
@@ -265,7 +265,7 @@ projects[Valet][download][url] = "git@github.com:JaceRider/Valet.git"
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][subdir] = "contrib"
-projects[adminimal_theme][version] = "1.5"  
+projects[adminimal_theme][version] = "1.6"  
 
 ; Fett Base Theme
 ;
