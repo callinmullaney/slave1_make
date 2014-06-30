@@ -189,7 +189,7 @@ projects[bxslider_views_slideshow][version] = "1.50"
 projects[views_ui_basic][version] = "1.2"
 
 ; Webform
-projects[webform][version] = "4.0-rc3"
+projects[webform][version] = "4.0-rc4"
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.0"
