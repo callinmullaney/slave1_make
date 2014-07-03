@@ -239,6 +239,15 @@ projects[Fawesome][type] = "module"
 projects[Fawesome][download][type] = "git"
 projects[Fawesome][download][url] = "git@github.com:JaceRider/Fawesome.git"
 
+; Search Reveal
+;
+; Adds functionality to Drupal search module for simple slide reveal effect.
+; @see https://github.com/nickbrandt/search_reveal
+projects[search_reveal][subdir] = "custom"
+projects[search_reveal][type] = "module"
+projects[search_reveal][download][type] = "git"
+projects[search_reveal][download][url] = "git@github.com:nickbrandt/search_reveal.git"
+
 ; Sonar
 ;
 ; Compass compiler for Drupal
