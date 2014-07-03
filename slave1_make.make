@@ -265,7 +265,7 @@ projects[Valet][download][url] = "git@github.com:JaceRider/Valet.git"
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][subdir] = "contrib"
-projects[adminimal_theme][version] = "1.7"  
+projects[adminimal_theme][version] = "1.17"  
 
 ; Fett Base Theme
 ;
