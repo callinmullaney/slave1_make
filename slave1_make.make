@@ -126,7 +126,7 @@ projects[link][version] = "1.2"
 projects[menu_block][version] = "2.4"
 
 ; Meta tags quick
-projects[metatags_quick][version] = "2.7"
+projects[metatags_quick][version] = "2.8"
 
 ; Module Filter
 projects[module_filter][version] = "2.0-alpha2"
