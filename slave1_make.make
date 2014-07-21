@@ -26,12 +26,6 @@ projects[drupal][subdir] = ''
 ; Address Field
 projects[addressfield][version] = "1.0-beta5"
 
-; Administration Menu 
-projects[admin_menu][version] = "3.0-rc4"
-
-; Adminimal Admin Menu 
-projects[adminimal_admin_menu][version] = "1.5"
-
 ; Advanced Text Formatter
 projects[advanced_text_formatter][version] = "1.4"
 
@@ -132,7 +126,7 @@ projects[imce][version] = "1.9"
 projects[inline_entity_form][version] = "1.5"
 
 ; JQuery Update
-projects[jquery_update][version] = "2.x-dev"
+projects[jquery_update][version] = "2.4"
 
 ; Libraries
 projects[libraries][version] = "2.2"
@@ -144,7 +138,7 @@ projects[link][version] = "1.2"
 projects[menu_block][version] = "2.4"
 
 ; Meta tags quick
-projects[metatags_quick][version] = "2.7"
+projects[metatags_quick][version] = "2.9"
 
 ; Module Filter
 projects[module_filter][version] = "2.0-alpha2"
@@ -204,7 +198,11 @@ projects[views_slideshow][version] = "3.1"
 projects[bxslider_views_slideshow][version] = "1.50"
 
 ; Webform
+<<<<<<< HEAD
 projects[webform][version] = "4.0-rc3"
+=======
+projects[webform][version] = "4.0-rc4"
+>>>>>>> 5c6b74a45af32296d95007adf7f93e4a306a5523
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.0"
@@ -217,14 +215,33 @@ projects[xmlsitemap][version] = "2.0"
 
 ; Set before each module - projects[][subdir] = "custom"
 
-; Sonar
+; Asset
 ;
-; Compass compiler for Drupal
-; @see https://github.com/JaceRider/Sonar/tree/develop
-projects[Sonar][subdir] = "custom"
-projects[Sonar][type] = "module"
-projects[Sonar][download][type] = "git"
-projects[Sonar][download][url] = "git@github.com:JaceRider/Sonar.git"
+; A Drupal module which adds entity based assets for various uses.
+; @see https://github.com/JaceRider/Asset
+projects[Asset][subdir] = "custom"
+projects[Asset][type] = "module"
+projects[Asset][download][type] = "git"
+projects[Asset][download][url] = "git@github.com:JaceRider/Asset.git"
+
+; Easy Admin
+;
+; Creates a client focused admin menu.
+; @see https://github.com/callinmullaney/easy_admin
+projects[easy_admin][subdir] = "custom"
+projects[easy_admin][type] = "module"
+projects[easy_admin][download][type] = "git"
+projects[easy_admin][download][url] = "git@github.com:callinmullaney/easy_admin.git"
+
+
+; eXo
+;
+; HTML5 editor integrated heavily with Drupal.
+; @see https://github.com/JaceRider/eXo
+projects[eXo][subdir] = "custom"
+projects[eXo][type] = "module"
+projects[eXo][download][type] = "git"
+projects[eXo][download][url] = "git@github.com:JaceRider/eXo.git"
 
 ; Fawesome
 ;
@@ -235,6 +252,33 @@ projects[Fawesome][type] = "module"
 projects[Fawesome][download][type] = "git"
 projects[Fawesome][download][url] = "git@github.com:JaceRider/Fawesome.git"
 
+; Search Reveal
+;
+; Adds functionality to Drupal search module for simple slide reveal effect.
+; @see https://github.com/nickbrandt/search_reveal
+projects[search_reveal][subdir] = "custom"
+projects[search_reveal][type] = "module"
+projects[search_reveal][download][type] = "git"
+projects[search_reveal][download][url] = "git@github.com:nickbrandt/search_reveal.git"
+
+; Sonar
+;
+; Compass compiler for Drupal
+; @see https://github.com/JaceRider/Sonar/tree/develop
+projects[Sonar][subdir] = "custom"
+projects[Sonar][type] = "module"
+projects[Sonar][download][type] = "git"
+projects[Sonar][download][url] = "git@github.com:JaceRider/Sonar.git"
+
+; Valet
+;
+; Compass compiler for Drupal
+; @see https://github.com/JaceRider/Valet
+projects[Valet][subdir] = "custom"
+projects[Valet][type] = "module"
+projects[Valet][download][type] = "git"
+projects[Valet][download][url] = "git@github.com:JaceRider/Valet.git"
+
 
 ; =============================================
 ; Themes
@@ -243,7 +287,7 @@ projects[Fawesome][download][url] = "git@github.com:JaceRider/Fawesome.git"
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][subdir] = "contrib"
-projects[adminimal_theme][version] = "1.0"  
+projects[adminimal_theme][version] = "1.17"  
 
 ; Fett Base Theme
 ;
@@ -259,17 +303,23 @@ projects[Fett][download][url] = "git@github.com:JaceRider/Fett.git"
 ; Libraries
 ; =============================================
 
-; CKEditor 4.4.1
-libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor 4.4.1/ckeditor_4.4.1_standard.zip"
-libraries[ckeditor][directory_name] = "ckeditor"
-libraries[ckeditor][type] = "library"
-
 ; Colorbox
 libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/1.x.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
+
+; JQuery.Hotkeys
+libraries[jquery.hotkeys][download][type] = "get"
+libraries[jquery.hotkeys][download][url] = "https://github.com/jeresig/jquery.hotkeys/archive/master.zip"
+libraries[jquery.hotkeys][directory_name] = "jquery.hotkeys"
+libraries[jquery.hotkeys][type] = "library"
+
+; Lawnchair
+libraries[lawnchair][download][type] = "get"
+libraries[lawnchair][download][url] = "http://brian.io/lawnchair/downloads/lawnchair-0.6.1.min.js"
+libraries[lawnchair][directory_name] = "lawnchair"
+libraries[lawnchair][type] = "library"
 
 
 ; =============================================
