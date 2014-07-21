@@ -54,7 +54,7 @@ projects[crumbs][version] = "2.0-beta13"
 projects[date][version] = "2.7"
 
 ; Date iCal
-projects[date_ical][version] = "3.1"
+projects[date_ical][version] = "3.2"
 
 ; Default Menu Link
 projects[default_menu_link][version] = "1.3"
@@ -126,7 +126,7 @@ projects[link][version] = "1.2"
 projects[menu_block][version] = "2.4"
 
 ; Meta tags quick
-projects[metatags_quick][version] = "2.8"
+projects[metatags_quick][version] = "2.9"
 
 ; Module Filter
 projects[module_filter][version] = "2.0-alpha2"
