@@ -33,7 +33,7 @@ projects[admin_menu][version] = "3.0-rc4"
 projects[adminimal_admin_menu][version] = "1.5"
 
 ; Advanced Text Formatter
-projects[advanced_text_formatter][version] = "1.2"
+projects[advanced_text_formatter][version] = "1.4"
 
 ; Better Exposed Filters
 projects[better_exposed_filters][version] = "3.0-beta4"
@@ -54,7 +54,7 @@ projects[context][version] = "3.2"
 projects[ctools][version] = "1.4"
 
 ; CKEditor - WYSIWYG HTML editor
-projects[ckeditor][version] = "1.13"
+projects[ckeditor][version] = "1.14"
 
 ; CKEditor Link
 projects[ckeditor_link][version] = "2.3"
@@ -69,28 +69,31 @@ projects[crumbs][version] = "2.0-beta13"
 projects[date][version] = "2.7"
 
 ; Date iCal
-projects[date_ical][version] = "3.1"
+projects[date_ical][version] = "3.2"
 
 ; Default Menu Link
 projects[default_menu_link][version] = "1.3"
 
 ; Devel
-projects[devel][version] = "1.4"
+projects[devel][version] = "1.5"
 
 ; DraggableViews
 projects[draggableviews][version] = "2.0"
 
 ; Email
-projects[email][version] = "1.2"
+projects[email][version] = "1.3"
+
+; Email Registration
+projects[email_registration][version] = "1.2"
 
 ; Entity API
-projects[entity][version] = "1.4"
+projects[entity][version] = "1.5"
 
 ; Entity cache
 projects[entitycache][version] = "1.2"
 
 ; Entity Construction Kit (ECK)
-projects[eck][version] = "2.0-rc2"
+projects[eck][version] = "2.0-rc3"
 
 ; Entity Reference 
 projects[entityreference][version] = "1.1"
@@ -105,7 +108,7 @@ projects[features][version] = "2.0"
 projects[feeds][version] = "2.0-alpha8"
 
 ; Field group
-projects[field_group][version] = "1.3"
+projects[field_group][version] = "1.4"
 
 ; File entity (fieldable files)
 projects[file_entity][version] = "2.0-alpha3"
@@ -123,7 +126,7 @@ projects[geophp][version] = "1.7"
 projects[google_analytics][version] = "1.4"
 
 ; IMCE
-projects[imce][version] = "1.8"
+projects[imce][version] = "1.9"
 
 ; Inline Entity Form
 projects[inline_entity_form][version] = "1.5"
@@ -138,7 +141,7 @@ projects[libraries][version] = "2.2"
 projects[link][version] = "1.2"
 
 ; Menu Block
-projects[menu_block][version] = "2.3"
+projects[menu_block][version] = "2.4"
 
 ; Meta tags quick
 projects[metatags_quick][version] = "2.7"
@@ -186,7 +189,7 @@ projects[textformatter][version] = "1.3"
 projects[token][version] = "1.5"
 
 ; Views
-projects[views][version] = "3.7"
+projects[views][version] = "3.8"
 
 ; Views Bulk Operations (VBO)
 projects[views_bulk_operations][version] = "3.2"
@@ -200,11 +203,8 @@ projects[views_slideshow][version] = "3.1"
 ; BxSlider Views Slideshow
 projects[bxslider_views_slideshow][version] = "1.50"
 
-; Views UI Edit Basic Settings
-projects[views_ui_basic][version] = "1.2"
-
 ; Webform
-projects[webform][version] = "4.0-beta3"
+projects[webform][version] = "4.0-rc3"
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.0"
