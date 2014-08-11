@@ -60,7 +60,7 @@ projects[ckeditor_link_file][version] = "1.3"
 projects[crumbs][version] = "2.0-beta13"
 
 ; Date
-projects[date][version] = "2.7"
+projects[date][version] = "2.8"
 
 ; Date iCal
 projects[date_ical][version] = "3.2"
@@ -87,7 +87,7 @@ projects[entity][version] = "1.5"
 projects[entitycache][version] = "1.2"
 
 ; Entity Construction Kit (ECK)
-projects[eck][version] = "2.0-rc3"
+projects[eck][version] = "2.0-rc4"
 
 ; Entity Reference 
 projects[entityreference][version] = "1.1"
@@ -96,7 +96,7 @@ projects[entityreference][version] = "1.1"
 projects[extlink][version] = "1.13"
 
 ; Features
-projects[features][version] = "2.0"
+projects[features][version] = "2.2"
 
 ; Feeds
 projects[feeds][version] = "2.0-alpha8"
@@ -198,11 +198,7 @@ projects[views_slideshow][version] = "3.1"
 projects[bxslider_views_slideshow][version] = "1.50"
 
 ; Webform
-<<<<<<< HEAD
-projects[webform][version] = "4.0-rc3"
-=======
 projects[webform][version] = "4.0-rc4"
->>>>>>> 5c6b74a45af32296d95007adf7f93e4a306a5523
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.0"
