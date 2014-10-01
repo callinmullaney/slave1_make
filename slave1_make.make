@@ -42,7 +42,7 @@ projects[colorbox][version] = "2.5"
 projects[content_menu][version] = "1.0"
 
 ; Context
-projects[context][version] = "3.2"
+projects[context][version] = "3.3"
 
 ; Chaos tool suite
 projects[ctools][version] = "1.4"
@@ -111,7 +111,7 @@ projects[file_entity][version] = "2.0-alpha3"
 projects[geocoder][version] = "1.2"
 
 ; Geofield
-projects[geofield][version] = "2.1"
+projects[geofield][version] = "2.3"
 
 ; GeoPHP
 projects[geophp][version] = "1.7"
@@ -198,7 +198,7 @@ projects[views_slideshow][version] = "3.1"
 projects[bxslider_views_slideshow][version] = "1.50"
 
 ; Webform
-projects[webform][version] = "4.0-rc4"
+projects[webform][version] = "4.0"
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.0"
@@ -211,15 +211,6 @@ projects[xmlsitemap][version] = "2.0"
 
 ; Set before each module - projects[][subdir] = "custom"
 
-; Asset
-;
-; A Drupal module which adds entity based assets for various uses.
-; @see https://github.com/JaceRider/Asset
-projects[Asset][subdir] = "custom"
-projects[Asset][type] = "module"
-projects[Asset][download][type] = "git"
-projects[Asset][download][url] = "git@github.com:JaceRider/Asset.git"
-
 ; Easy Admin
 ;
 ; Creates a client focused admin menu.
@@ -229,16 +220,6 @@ projects[easy_admin][type] = "module"
 projects[easy_admin][download][type] = "git"
 projects[easy_admin][download][url] = "git@github.com:callinmullaney/easy_admin.git"
 
-
-; eXo
-;
-; HTML5 editor integrated heavily with Drupal.
-; @see https://github.com/JaceRider/eXo
-projects[eXo][subdir] = "custom"
-projects[eXo][type] = "module"
-projects[eXo][download][type] = "git"
-projects[eXo][download][url] = "git@github.com:JaceRider/eXo.git"
-
 ; Fawesome
 ;
 ; Font Awesome for Drupal
@@ -247,15 +228,6 @@ projects[Fawesome][subdir] = "custom"
 projects[Fawesome][type] = "module"
 projects[Fawesome][download][type] = "git"
 projects[Fawesome][download][url] = "git@github.com:JaceRider/Fawesome.git"
-
-; Search Reveal
-;
-; Adds functionality to Drupal search module for simple slide reveal effect.
-; @see https://github.com/nickbrandt/search_reveal
-projects[search_reveal][subdir] = "custom"
-projects[search_reveal][type] = "module"
-projects[search_reveal][download][type] = "git"
-projects[search_reveal][download][url] = "git@github.com:nickbrandt/search_reveal.git"
 
 ; Sonar
 ;
