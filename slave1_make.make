@@ -36,7 +36,7 @@ projects[better_exposed_filters][version] = "3.0-beta4"
 projects[better_formats][version] = "1.0-beta1"
 
 ; Colorbox
-projects[colorbox][version] = "2.5"
+projects[colorbox][version] = "2.8"
 
 ; Content Menu
 projects[content_menu][version] = "1.0"
@@ -48,7 +48,7 @@ projects[context][version] = "3.3"
 projects[ctools][version] = "1.4"
 
 ; CKEditor - WYSIWYG HTML editor
-projects[ckeditor][version] = "1.14"
+projects[ckeditor][version] = "1.16"
 
 ; CKEditor Link
 projects[ckeditor_link][version] = "2.3"
@@ -105,7 +105,7 @@ projects[feeds][version] = "2.0-alpha8"
 projects[field_group][version] = "1.4"
 
 ; File entity (fieldable files)
-projects[file_entity][version] = "2.0-alpha3"
+projects[file_entity][version] = "2.0-beta-1"
 
 ; Geocoder
 projects[geocoder][version] = "1.2"
@@ -132,7 +132,7 @@ projects[jquery_update][version] = "2.4"
 projects[libraries][version] = "2.2"
 
 ; Link
-projects[link][version] = "1.2"
+projects[link][version] = "1.3"
 
 ; Menu Block
 projects[menu_block][version] = "2.4"
@@ -189,7 +189,7 @@ projects[views][version] = "3.8"
 projects[views_bulk_operations][version] = "3.2"
 
 ; Views Load More
-projects[views_load_more][version] = "1.2"
+projects[views_load_more][version] = "1.5"
 
 ; Views Slideshow
 projects[views_slideshow][version] = "3.1"
@@ -198,7 +198,7 @@ projects[views_slideshow][version] = "3.1"
 projects[bxslider_views_slideshow][version] = "1.50"
 
 ; Webform
-projects[webform][version] = "4.0"
+projects[webform][version] = "4.1"
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.0"
