@@ -105,7 +105,7 @@ projects[feeds][version] = "2.0-alpha8"
 projects[field_group][version] = "1.4"
 
 ; File entity (fieldable files)
-projects[file_entity][version] = "2.0-beta-1"
+projects[file_entity][version] = "2.0-beta1"
 
 ; Geocoder
 projects[geocoder][version] = "1.2"
@@ -115,6 +115,9 @@ projects[geofield][version] = "2.3"
 
 ; GeoPHP
 projects[geophp][version] = "1.7"
+
+; Global Redirect
+projects[globalredirect][version] = "1.5"
 
 ; Google Analytics
 projects[google_analytics][version] = "1.4"
