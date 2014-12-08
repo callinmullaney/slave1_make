@@ -311,4 +311,4 @@ projects[page_content][download][url] = "git@github.com:callinmullaney/page_cont
 projects[slave1_profile][type] = "profile"
 projects[slave1_profile][subdir] = ""
 projects[slave1_profile][download][type] = "git"
-projects[slave1_profile][download][url] = "git@github.com:callinmullaney/slave1_profile.git"
+projects[slave1_profile][download][url] = "git@github.com:callinmullaney/slave1.git"
