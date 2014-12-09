@@ -45,7 +45,7 @@ projects[content_menu][version] = "1.0"
 projects[context][version] = "3.3"
 
 ; Chaos tool suite
-projects[ctools][version] = "1.4"
+projects[ctools][version] = "1.5"
 
 ; CKEditor - WYSIWYG HTML editor
 projects[ckeditor][version] = "1.16"
@@ -87,7 +87,7 @@ projects[entity][version] = "1.5"
 projects[entitycache][version] = "1.2"
 
 ; Entity Construction Kit (ECK)
-projects[eck][version] = "2.0-rc4"
+projects[eck][version] = "2.0-rc5"
 
 ; Entity Reference 
 projects[entityreference][version] = "1.1"
@@ -201,10 +201,10 @@ projects[views_slideshow][version] = "3.1"
 projects[bxslider_views_slideshow][version] = "1.50"
 
 ; Webform
-projects[webform][version] = "4.1"
+projects[webform][version] = "4.2"
 
 ; XML sitemap
-projects[xmlsitemap][version] = "2.0"
+projects[xmlsitemap][version] = "2.1"
 
 
 
@@ -258,7 +258,7 @@ projects[Valet][download][url] = "git@github.com:JaceRider/Valet.git"
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][subdir] = "contrib"
-projects[adminimal_theme][version] = "1.17"  
+projects[adminimal_theme][version] = "1.18"  
 
 ; Fett Base Theme
 ;
