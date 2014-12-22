@@ -308,7 +308,7 @@ projects[page_content][download][url] = "git@github.com:callinmullaney/page_cont
 ; Install Profiles
 ; =============================================
 
-projects[slave1_profile][type] = "profile"
-projects[slave1_profile][subdir] = ""
-projects[slave1_profile][download][type] = "git"
-projects[slave1_profile][download][url] = "git@github.com:callinmullaney/slave1.git"
+projects[slave1][type] = "profile"
+projects[slave1][subdir] = ""
+projects[slave1][download][type] = "git"
+projects[slave1][download][url] = "git@github.com:callinmullaney/slave1.git"
