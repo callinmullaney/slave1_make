@@ -207,6 +207,39 @@ projects[webform][version] = "4.2"
 projects[xmlsitemap][version] = "2.1"
 
 
+; =============================================
+; Pantheon Modules - Pantheon
+; =============================================
+
+; Set before each module - projects[][subdir] = "custom"
+
+; Pantheon API
+;
+; Integration with Pantheon platform
+; @see https://
+; projects[pantheon_api][subdir] = "pantheon"
+; projects[pantheon_api][type] = "module"
+; projects[pantheon_api][download][type] = "git"
+; projects[pantheon_api][download][url] = ""
+
+; Pantheon Login
+;
+; Integration with Pantheon platform
+; @see https://
+; projects[pantheon_login][subdir] = "pantheon"
+; projects[pantheon_login][type] = "module"
+; projects[pantheon_login][download][type] = "git"
+; projects[pantheon_login][download][url] = ""
+
+; Pantheon Apachesolr
+;
+; Integration with Pantheon platform
+; @see https://
+; projects[pantheon_apachesolr][subdir] = "pantheon"
+; projects[pantheon_apachesolr][type] = "module"
+; projects[pantheon_apachesolr][download][type] = "git"
+; projects[pantheon_apachesolr][download][url] = ""
+
 
 ; =============================================
 ; Custom Modules - Custom
