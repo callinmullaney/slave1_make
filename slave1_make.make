@@ -24,13 +24,13 @@ projects[drupal][subdir] = ''
 ; =============================================
 
 ; Address Field
-projects[addressfield][version] = "1.0-beta5"
+projects[addressfield][version] = "1.0-rc1"
 
 ; Advanced Text Formatter
 projects[advanced_text_formatter][version] = "1.4"
 
 ; Better Exposed Filters
-projects[better_exposed_filters][version] = "3.0-beta4"
+projects[better_exposed_filters][version] = "3.0"
 
 ; Better Formats
 projects[better_formats][version] = "1.0-beta1"
@@ -42,7 +42,7 @@ projects[colorbox][version] = "2.8"
 projects[content_menu][version] = "1.0"
 
 ; Context
-projects[context][version] = "3.3"
+projects[context][version] = "3.6"
 
 ; Chaos tool suite
 projects[ctools][version] = "1.5"
@@ -87,7 +87,7 @@ projects[entity][version] = "1.5"
 projects[entitycache][version] = "1.2"
 
 ; Entity Construction Kit (ECK)
-projects[eck][version] = "2.0-rc5"
+projects[eck][version] = "2.0-rc6"
 
 ; Entity Reference 
 projects[entityreference][version] = "1.1"
@@ -96,7 +96,7 @@ projects[entityreference][version] = "1.1"
 projects[extlink][version] = "1.13"
 
 ; Features
-projects[features][version] = "2.2"
+projects[features][version] = "2.3"
 
 ; Feeds
 projects[feeds][version] = "2.0-alpha8"
@@ -159,7 +159,7 @@ projects[page_title][version] = "2.7"
 projects[pathauto][version] = "1.2"
 
 ; Publish button
-projects[publish_button][version] = "1.0"
+projects[publish_button][version] = "1.1"
 
 ; Quick Tabs
 projects[quicktabs][version] = "3.6"
