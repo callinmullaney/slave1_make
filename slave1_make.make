@@ -35,18 +35,6 @@ projects[better_exposed_filters][version] = "3.0"
 ; Better Formats
 projects[better_formats][version] = "1.0-beta1"
 
-; Colorbox
-projects[colorbox][version] = "2.8"
-
-; Content Menu
-projects[content_menu][version] = "1.0"
-
-; Context
-projects[context][version] = "3.6"
-
-; Chaos tool suite
-projects[ctools][version] = "1.5"
-
 ; CKEditor - WYSIWYG HTML editor
 projects[ckeditor][version] = "1.16"
 
@@ -56,8 +44,17 @@ projects[ckeditor_link][version] = "2.3"
 ; CKEditor Link File
 projects[ckeditor_link_file][version] = "1.3"
 
-; Crumbs, the breadcrumbs suite
-projects[crumbs][version] = "2.0-beta13"
+; Chaos tool suite
+projects[ctools][version] = "1.5"
+
+; Colorbox
+projects[colorbox][version] = "2.8"
+
+; Content Menu
+projects[content_menu][version] = "1.0"
+
+; Context
+projects[context][version] = "3.6"
 
 ; Date
 projects[date][version] = "2.8"
@@ -76,9 +73,6 @@ projects[draggableviews][version] = "2.0"
 
 ; Email
 projects[email][version] = "1.3"
-
-; Email Registration
-projects[email_registration][version] = "1.2"
 
 ; Entity API
 projects[entity][version] = "1.5"
@@ -137,6 +131,12 @@ projects[libraries][version] = "2.2"
 ; Link
 projects[link][version] = "1.3"
 
+; Mandrill
+projects[mandrill][version] = "2.1"
+
+; Mail System
+projects[mailsystem][version] = "2.34"
+
 ; Menu Block
 projects[menu_block][version] = "2.4"
 
@@ -148,9 +148,6 @@ projects[module_filter][version] = "2.0-alpha2"
 
 ; Node and Comments Form Settings
 projects[nodeformsettings][version] = "2.x-dev"
-
-; Node Clone
-projects[node_clone][version] = "1.0-rc2"
 
 ; Page Title
 projects[page_title][version] = "2.7"
@@ -169,9 +166,6 @@ projects[redirect][version] = "1.0-rc1"
 
 ; References
 projects[references][version] = "2.1"
-
-; SMTP Authentication Support
-projects[smtp][version] = "1.0"
 
 ; Special menu items
 projects[special_menu_items][version] = "2.0"
@@ -306,6 +300,12 @@ projects[Fett][download][url] = "git@github.com:JaceRider/Fett.git"
 ; =============================================
 ; Libraries
 ; =============================================
+
+; CKEditor
+libraries[ckeditor][download][type] = "get"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.6/ckeditor_4.4.6_standard.zip"
+libraries[ckeditor][directory_name] = "ckeditor"
+libraries[ckeditor][type] = "library"
 
 ; Colorbox
 libraries[colorbox][download][type] = "get"
