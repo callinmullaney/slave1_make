@@ -24,7 +24,7 @@ projects[drupal][subdir] = ''
 ; =============================================
 
 ; Address Field
-projects[addressfield][version] = "1.0-rc1"
+projects[addressfield][version] = "1.0"
 
 ; Advanced Text Formatter
 projects[advanced_text_formatter][version] = "1.4"
@@ -45,7 +45,7 @@ projects[ckeditor_link][version] = "2.3"
 projects[ckeditor_link_file][version] = "1.3"
 
 ; Chaos tool suite
-projects[ctools][version] = "1.5"
+projects[ctools][version] = "1.6"
 
 ; Colorbox
 projects[colorbox][version] = "2.8"
@@ -81,25 +81,16 @@ projects[entity][version] = "1.5"
 projects[entitycache][version] = "1.2"
 
 ; Entity Construction Kit (ECK)
-projects[eck][version] = "2.0-rc6"
+projects[eck][version] = "2.0-rc7"
 
 ; Entity Reference 
 projects[entityreference][version] = "1.1"
 
-; External Links
-projects[extlink][version] = "1.13"
-
 ; Features
 projects[features][version] = "2.3"
 
-; Feeds
-projects[feeds][version] = "2.0-alpha8"
-
 ; Field group
 projects[field_group][version] = "1.4"
-
-; File entity (fieldable files)
-projects[file_entity][version] = "2.0-beta1"
 
 ; Geocoder
 projects[geocoder][version] = "1.2"
@@ -113,9 +104,6 @@ projects[geophp][version] = "1.7"
 ; Global Redirect
 projects[globalredirect][version] = "1.5"
 
-; Google Analytics
-projects[google_analytics][version] = "1.4"
-
 ; IMCE
 projects[imce][version] = "1.9"
 
@@ -123,7 +111,7 @@ projects[imce][version] = "1.9"
 projects[inline_entity_form][version] = "1.5"
 
 ; JQuery Update
-projects[jquery_update][version] = "2.4"
+projects[jquery_update][version] = "2.5"
 
 ; Libraries
 projects[libraries][version] = "2.2"
@@ -138,7 +126,7 @@ projects[mandrill][version] = "2.1"
 projects[mailsystem][version] = "2.34"
 
 ; Menu Block
-projects[menu_block][version] = "2.4"
+projects[menu_block][version] = "2.5"
 
 ; Meta tags quick
 projects[metatags_quick][version] = "2.9"
@@ -179,6 +167,9 @@ projects[textformatter][version] = "1.3"
 ; Token
 projects[token][version] = "1.5"
 
+; Tracking Code
+projects[tracking_code][version] = "1.5"
+
 ; Views
 projects[views][version] = "3.8"
 
@@ -198,7 +189,7 @@ projects[bxslider_views_slideshow][version] = "1.50"
 projects[webform][version] = "4.2"
 
 ; XML sitemap
-projects[xmlsitemap][version] = "2.1"
+projects[xmlsitemap][version] = "2.2"
 
 
 ; =============================================
@@ -285,7 +276,7 @@ projects[Valet][download][url] = "https://github.com/jacerider/Valet.git"
 
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][subdir] = "contrib"
-projects[adminimal_theme][version] = "1.18"  
+projects[adminimal_theme][version] = "1.20"  
 
 ; Fett Base Theme
 ;
