@@ -248,7 +248,7 @@ projects[xmlsitemap][version] = "2.1"
 projects[easy_admin][subdir] = "custom"
 projects[easy_admin][type] = "module"
 projects[easy_admin][download][type] = "git"
-projects[easy_admin][download][url] = "git@github.com:callinmullaney/easy_admin.git"
+projects[easy_admin][download][url] = "https://github.com/callinmullaney/easy_admin.git"
 
 ; Fawesome
 ;
@@ -257,7 +257,7 @@ projects[easy_admin][download][url] = "git@github.com:callinmullaney/easy_admin.
 projects[Fawesome][subdir] = "custom"
 projects[Fawesome][type] = "module"
 projects[Fawesome][download][type] = "git"
-projects[Fawesome][download][url] = "git@github.com:JaceRider/Fawesome.git"
+projects[Fawesome][download][url] = "https://github.com/jacerider/Fawesome.git"
 
 ; Sonar
 ;
@@ -266,7 +266,7 @@ projects[Fawesome][download][url] = "git@github.com:JaceRider/Fawesome.git"
 projects[Sonar][subdir] = "custom"
 projects[Sonar][type] = "module"
 projects[Sonar][download][type] = "git"
-projects[Sonar][download][url] = "git@github.com:JaceRider/Sonar.git"
+projects[Sonar][download][url] = "https://github.com/jacerider/Sonar.git"
 
 ; Valet
 ;
@@ -275,7 +275,7 @@ projects[Sonar][download][url] = "git@github.com:JaceRider/Sonar.git"
 projects[Valet][subdir] = "custom"
 projects[Valet][type] = "module"
 projects[Valet][download][type] = "git"
-projects[Valet][download][url] = "git@github.com:JaceRider/Valet.git"
+projects[Valet][download][url] = "https://github.com/jacerider/Valet.git"
 
 
 ; =============================================
@@ -294,7 +294,7 @@ projects[adminimal_theme][version] = "1.18"
 projects[Fett][type] = "theme"
 projects[Fett][subdir] = "custom"
 projects[Fett][download][type] = "git"
-projects[Fett][download][url] = "git@github.com:JaceRider/Fett.git"
+projects[Fett][download][url] = "https://github.com/jacerider/fett.git"
 
 
 ; =============================================
@@ -334,7 +334,7 @@ libraries[lawnchair][type] = "library"
 projects[page_content][type] = "module"
 projects[page_content][subdir] = "custom"
 projects[page_content][download][type] = "git"
-projects[page_content][download][url] = "git@github.com:callinmullaney/page_content.git"
+projects[page_content][download][url] = "https://github.com/callinmullaney/page_content.git"
 
 
 ; =============================================
@@ -344,4 +344,4 @@ projects[page_content][download][url] = "git@github.com:callinmullaney/page_cont
 projects[slave1][type] = "profile"
 projects[slave1][subdir] = ""
 projects[slave1][download][type] = "git"
-projects[slave1][download][url] = "git@github.com:callinmullaney/slave1.git"
+projects[slave1][download][url] = "https://github.com/callinmullaney/slave1.git"
