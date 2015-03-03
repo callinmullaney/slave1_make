@@ -277,19 +277,19 @@ projects[Valet][download][url] = "https://github.com/jacerider/Valet.git"
 ;
 ; Fett is a basetheme of awesomeness that uses Foundation 5 and SASS.
 ; @see https://github.com/JaceRider/Fett
-projects[fett][type] = "theme"
-projects[fett][subdir] = "custom"
-projects[fett][download][type] = "git"
-projects[fett][download][url] = "https://github.com/jacerider/fett.git"
+projects[Fett][type] = "theme"
+projects[Fett][subdir] = "custom"
+projects[Fett][download][type] = "git"
+projects[Fett][download][url] = "https://github.com/jacerider/fett.git"
 
 ; Boushh Admin Theme
 ;
 ; Fett is a basetheme of awesomeness that uses Foundation 5 and SASS.
 ; @see https://github.com/JaceRider/Fett
-projects[boushh][type] = "theme"
-projects[boushh][subdir] = "custom"
-projects[boushh][download][type] = "git"
-projects[boushh][download][url] = "https://github.com/jacerider/boushh.git"
+projects[Boushh][type] = "theme"
+projects[Boushh][subdir] = "custom"
+projects[Boushh][download][type] = "git"
+projects[Boushh][download][url] = "https://github.com/jacerider/boushh.git"
 
 
 ; =============================================
