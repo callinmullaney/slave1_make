@@ -75,7 +75,7 @@ projects[draggableviews][version] = "2.0"
 projects[email][version] = "1.3"
 
 ; Entity API
-projects[entity][version] = "1.5"
+projects[entity][version] = "1.6"
 
 ; Entity cache
 projects[entitycache][version] = "1.2"
@@ -132,7 +132,7 @@ projects[menu_block][version] = "2.5"
 projects[metatags_quick][version] = "2.9"
 
 ; Module Filter
-projects[module_filter][version] = "2.0-alpha2"
+projects[module_filter][version] = "2.0"
 
 ; Node and Comments Form Settings
 projects[nodeformsettings][version] = "2.x-dev"
@@ -165,13 +165,13 @@ projects[strongarm][version] = "2.0"
 projects[textformatter][version] = "1.3"
 
 ; Token
-projects[token][version] = "1.5"
+projects[token][version] = "1.6"
 
 ; Tracking Code
 projects[tracking_code][version] = "1.5"
 
 ; Views
-projects[views][version] = "3.8"
+projects[views][version] = "3.10"
 
 ; Views Bulk Operations (VBO)
 projects[views_bulk_operations][version] = "3.2"
@@ -186,7 +186,7 @@ projects[views_slideshow][version] = "3.1"
 projects[bxslider_views_slideshow][version] = "1.50"
 
 ; Webform
-projects[webform][version] = "4.2"
+projects[webform][version] = "4.3"
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.2"
@@ -273,19 +273,23 @@ projects[Valet][download][url] = "https://github.com/jacerider/Valet.git"
 ; Themes
 ; =============================================
 
-
-projects[adminimal_theme][type] = "theme"
-projects[adminimal_theme][subdir] = "contrib"
-projects[adminimal_theme][version] = "1.20"  
-
 ; Fett Base Theme
 ;
 ; Fett is a basetheme of awesomeness that uses Foundation 5 and SASS.
 ; @see https://github.com/JaceRider/Fett
-projects[Fett][type] = "theme"
-projects[Fett][subdir] = "custom"
-projects[Fett][download][type] = "git"
-projects[Fett][download][url] = "https://github.com/jacerider/fett.git"
+projects[fett][type] = "theme"
+projects[fett][subdir] = "custom"
+projects[fett][download][type] = "git"
+projects[fett][download][url] = "https://github.com/jacerider/fett.git"
+
+; Boushh Admin Theme
+;
+; Fett is a basetheme of awesomeness that uses Foundation 5 and SASS.
+; @see https://github.com/JaceRider/Fett
+projects[boushh][type] = "theme"
+projects[boushh][subdir] = "custom"
+projects[boushh][download][type] = "git"
+projects[boushh][download][url] = "https://github.com/jacerider/boushh.git"
 
 
 ; =============================================
