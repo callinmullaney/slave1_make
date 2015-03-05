@@ -167,9 +167,6 @@ projects[textformatter][version] = "1.3"
 ; Token
 projects[token][version] = "1.6"
 
-; Tracking Code
-projects[tracking_code][version] = "1.5"
-
 ; Views
 projects[views][version] = "3.10"
 
