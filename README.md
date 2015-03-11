@@ -7,7 +7,7 @@ This Document describes all the necessary steps to install Drupal using slave-1_
 Create the domain folder inside your projects folder.
 Inside domain folder run the following command.
 
-    $ git clone git@github.com:callinmullaney/slave1_make.git
+    $ git clone https://github.com/callinmullaney/slave1_make.git
 
 ### Download Drupal and Contrib files with drush make
 
