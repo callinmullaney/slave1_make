@@ -288,6 +288,15 @@ projects[Boushh][subdir] = "custom"
 projects[Boushh][download][type] = "git"
 projects[Boushh][download][url] = "https://github.com/jacerider/boushh.git"
 
+; Prototheme Wireframe Theme
+;
+; Nick is too cool for readme files.
+; @see https://github.com/nickbrandt/prototheme
+projects[prototheme][type] = "theme"
+projects[prototheme][subdir] = "custom"
+projects[prototheme][download][type] = "git"
+projects[prototheme][download][url] = "https://github.com/nickbrandt/prototheme.git"
+
 
 ; =============================================
 ; Libraries
