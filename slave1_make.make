@@ -87,7 +87,7 @@ projects[eck][version] = "2.0-rc7"
 projects[entityreference][version] = "1.1"
 
 ; Features
-projects[features][version] = "2.3"
+projects[features][version] = "2.4"
 
 ; Field group
 projects[field_group][version] = "1.4"
@@ -183,7 +183,7 @@ projects[views_slideshow][version] = "3.1"
 projects[bxslider_views_slideshow][version] = "1.50"
 
 ; Webform
-projects[webform][version] = "4.3"
+projects[webform][version] = "4.4"
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.2"
