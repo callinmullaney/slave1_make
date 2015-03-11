@@ -281,21 +281,21 @@ projects[Fett][download][url] = "https://github.com/jacerider/fett.git"
 
 ; Boushh Admin Theme
 ;
-; Fett is a basetheme of awesomeness that uses Foundation 5 and SASS.
+; Because he's holding a thermal detonator!
 ; @see https://github.com/JaceRider/Fett
 projects[Boushh][type] = "theme"
 projects[Boushh][subdir] = "custom"
 projects[Boushh][download][type] = "git"
 projects[Boushh][download][url] = "https://github.com/jacerider/boushh.git"
 
-; Prototheme Wireframe Theme
+; Jango Wireframe Theme
 ;
-; Nick is too cool for readme files.
-; @see https://github.com/nickbrandt/prototheme
-projects[prototheme][type] = "theme"
-projects[prototheme][subdir] = "custom"
-projects[prototheme][download][type] = "git"
-projects[prototheme][download][url] = "https://github.com/nickbrandt/prototheme.git"
+; Nick is too cool for readme files. 
+; @see https://github.com/nickbrandt/jango
+projects[jango][type] = "theme"
+projects[jango][subdir] = "custom"
+projects[jango][download][type] = "git"
+projects[jango][download][url] = "https://github.com/nickbrandt/jango.git"
 
 
 ; =============================================
