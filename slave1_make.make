@@ -45,7 +45,7 @@ projects[ckeditor_link][version] = "2.3"
 projects[ckeditor_link_file][version] = "1.3"
 
 ; Chaos tool suite
-projects[ctools][version] = "1.6"
+projects[ctools][version] = "1.7"
 
 ; Colorbox
 projects[colorbox][version] = "2.8"
@@ -57,7 +57,7 @@ projects[content_menu][version] = "1.0"
 projects[context][version] = "3.6"
 
 ; Date
-projects[date][version] = "2.8"
+projects[date][version] = "2.9-rc1"
 
 ; Date iCal
 projects[date_ical][version] = "3.2"
@@ -183,7 +183,7 @@ projects[views_slideshow][version] = "3.1"
 projects[bxslider_views_slideshow][version] = "1.50"
 
 ; Webform
-projects[webform][version] = "4.4"
+projects[webform][version] = "4.7"
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.2"
