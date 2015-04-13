@@ -173,6 +173,9 @@ projects[views][version] = "3.10"
 ; Views Bulk Operations (VBO)
 projects[views_bulk_operations][version] = "3.2"
 
+; Views Content Cache
+projects[views_content_cache][version] = "3.0-alpha3"
+
 ; Views Load More
 projects[views_load_more][version] = "1.5"
 
