@@ -87,7 +87,7 @@ projects[eck][version] = "2.0-rc7"
 projects[entityreference][version] = "1.1"
 
 ; Features
-projects[features][version] = "2.4"
+projects[features][version] = "2.5"
 
 ; Field group
 projects[field_group][version] = "1.4"
@@ -168,7 +168,7 @@ projects[textformatter][version] = "1.3"
 projects[token][version] = "1.6"
 
 ; Views
-projects[views][version] = "3.10"
+projects[views][version] = "3.11"
 
 ; Views Bulk Operations (VBO)
 projects[views_bulk_operations][version] = "3.2"
@@ -186,7 +186,7 @@ projects[views_slideshow][version] = "3.1"
 projects[bxslider_views_slideshow][version] = "1.50"
 
 ; Webform
-projects[webform][version] = "4.7"
+projects[webform][version] = "4.8"
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.2"
