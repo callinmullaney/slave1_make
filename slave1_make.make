@@ -68,9 +68,6 @@ projects[entity][version] = "1.6"
 ; Entity cache
 projects[entitycache][version] = "1.2"
 
-; Entity Construction Kit (ECK)
-projects[eck][version] = "2.0-rc7"
-
 ; Entity Reference 
 projects[entityreference][version] = "1.1"
 
