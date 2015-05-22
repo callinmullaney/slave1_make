@@ -35,15 +35,6 @@ projects[better_exposed_filters][version] = "3.0"
 ; Better Formats
 projects[better_formats][version] = "1.0-beta1"
 
-; CKEditor - WYSIWYG HTML editor
-projects[ckeditor][version] = "1.16"
-
-; CKEditor Link
-projects[ckeditor_link][version] = "2.3"
-
-; CKEditor Link File
-projects[ckeditor_link_file][version] = "1.3"
-
 ; Chaos tool suite
 projects[ctools][version] = "1.7"
 
@@ -58,9 +49,6 @@ projects[context][version] = "3.6"
 
 ; Date
 projects[date][version] = "2.9-rc1"
-
-; Date iCal
-projects[date_ical][version] = "3.2"
 
 ; Default Menu Link
 projects[default_menu_link][version] = "1.3"
@@ -91,6 +79,9 @@ projects[features][version] = "2.5"
 
 ; Field group
 projects[field_group][version] = "1.4"
+
+; File (Field) Paths
+projects[filefield_paths][version] = "1.0-beta4"
 
 ; Geocoder
 projects[geocoder][version] = "1.2"
@@ -167,6 +158,9 @@ projects[textformatter][version] = "1.3"
 ; Token
 projects[token][version] = "1.6"
 
+; Transliteration
+projects[transliteration][version] = "3.2"
+
 ; Views
 projects[views][version] = "3.11"
 
@@ -231,6 +225,26 @@ projects[xmlsitemap][version] = "2.2"
 ; =============================================
 
 ; Set before each module - projects[][subdir] = "custom"
+
+; Alchemist
+;
+; Cyle's too cool for README
+; @see https://github.com/jacerider/alchemist
+projects[alchemist][subdir] = "custom"
+projects[alchemist][type] = "module"
+projects[alchemist][download][type] = "git"
+projects[alchemist][download][url] = "https://github.com/jacerider/alchemist.git"
+
+
+; Asset
+;
+; A Drupal module which adds entity based assets for various uses.
+; @see https://github.com/jacerider/asset
+projects[asset][subdir] = "custom"
+projects[asset][type] = "module"
+projects[asset][download][type] = "git"
+projects[asset][download][url] = "https://github.com/jacerider/asset.git"
+
 
 ; Easy Admin
 ;
@@ -307,7 +321,7 @@ projects[jango][download][url] = "https://github.com/nickbrandt/jango.git"
 
 ; CKEditor
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.6/ckeditor_4.4.6_standard.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.7/ckeditor_4.4.7_full.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
