@@ -26,9 +26,6 @@ projects[drupal][subdir] = ''
 ; Address Field
 projects[addressfield][version] = "1.0"
 
-; Advanced Text Formatter
-projects[advanced_text_formatter][version] = "1.4"
-
 ; Better Exposed Filters
 projects[better_exposed_filters][version] = "3.0"
 
