@@ -119,9 +119,6 @@ projects[metatags_quick][version] = "2.9"
 ; Module Filter
 projects[module_filter][version] = "2.0"
 
-; Node and Comments Form Settings
-projects[nodeformsettings][version] = "2.x-dev"
-
 ; Page Title
 projects[page_title][version] = "2.7"
 
@@ -139,6 +136,9 @@ projects[redirect][version] = "1.0-rc1"
 
 ; References
 projects[references][version] = "2.1"
+
+; Simplify
+projects[simplify][version] = "3.3"
 
 ; Special menu items
 projects[special_menu_items][version] = "2.0"
