@@ -24,7 +24,7 @@ projects[drupal][subdir] = ''
 ; =============================================
 
 ; Address Field
-projects[addressfield][version] = "1.0"
+projects[addressfield][version] = "1.1"
 
 ; Better Exposed Filters
 projects[better_exposed_filters][version] = "3.0"
@@ -111,7 +111,7 @@ projects[mandrill][version] = "2.1"
 projects[mailsystem][version] = "2.34"
 
 ; Menu Block
-projects[menu_block][version] = "2.5"
+projects[menu_block][version] = "2.6"
 
 ; Meta tags quick
 projects[metatags_quick][version] = "2.9"
@@ -155,6 +155,9 @@ projects[token][version] = "1.6"
 ; Transliteration
 projects[transliteration][version] = "3.2"
 
+; Vertical Tabs Responsive
+projects[vertical_tabs_responsive][version] = "1.0-beta10"
+
 ; Views
 projects[views][version] = "3.11"
 
@@ -174,7 +177,7 @@ projects[views_slideshow][version] = "3.1"
 projects[bxslider_views_slideshow][version] = "1.50"
 
 ; Webform
-projects[webform][version] = "4.8"
+projects[webform][version] = "4.9"
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.2"
