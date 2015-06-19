@@ -26,6 +26,9 @@ projects[drupal][subdir] = ''
 ; Address Field
 projects[addressfield][version] = "1.1"
 
+; AutoComplete Deluxe
+projects[autocomplete_deluxe][version] = "2.1"
+
 ; Better Exposed Filters
 projects[better_exposed_filters][version] = "3.0"
 
