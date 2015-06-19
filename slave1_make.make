@@ -158,6 +158,9 @@ projects[transliteration][version] = "3.2"
 ; Vertical Tabs Responsive
 projects[vertical_tabs_responsive][version] = "1.0-beta10"
 
+; Video Embed Field
+projects[video_embed_field][version] = "2.0-beta10"
+
 ; Views
 projects[views][version] = "3.11"
 
@@ -300,7 +303,7 @@ projects[fett][download][url] = "https://github.com/jacerider/fett.git"
 projects[boushh][type] = "theme"
 projects[boushh][subdir] = "custom"
 projects[boushh][download][type] = "git"
-projects[boushh][download][url] = "https://github.com/jacerider/boushh.git"
+projects[boushh][download][url] = "https://github.com/callinmullaney/boushh"
 
 ; Jango Wireframe Theme
 ;
