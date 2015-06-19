@@ -352,7 +352,13 @@ libraries[lawnchair][type] = "library"
 projects[page_content][type] = "module"
 projects[page_content][subdir] = "custom"
 projects[page_content][download][type] = "git"
-projects[page_content][download][url] = "https://github.com/callinmullaney/page_content.git"
+projects[page_content][download][url] = "https://github.com/callinmullaney/page_content"
+
+; @see https://github.com/callinmullaney/manage_content_view
+projects[manage_content_view][type] = "module"
+projects[manage_content_view][subdir] = "custom"
+projects[manage_content_view][download][type] = "git"
+projects[manage_content_view][download][url] = "https://github.com/callinmullaney/manage_content_view.git"
 
 
 ; =============================================
