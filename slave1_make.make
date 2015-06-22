@@ -353,15 +353,65 @@ libraries[lawnchair][type] = "library"
 
 ; @see https://github.com/callinmullaney/page_content
 projects[page_content][type] = "module"
-projects[page_content][subdir] = "custom"
+projects[page_content][subdir] = "features"
 projects[page_content][download][type] = "git"
 projects[page_content][download][url] = "https://github.com/callinmullaney/page_content"
 
+; @see https://github.com/callinmullaney/news_content
+projects[news_content][type] = "module"
+projects[news_content][subdir] = "features"
+projects[news_content][download][type] = "git"
+projects[news_content][download][url] = "https://github.com/callinmullaney/news_content.git"
+
+; @see https://github.com/callinmullaney/event_content
+projects[event_content][type] = "module"
+projects[event_content][subdir] = "features"
+projects[event_content][download][type] = "git"
+projects[event_content][download][url] = "https://github.com/callinmullaney/event_content.git"
+
+; @see https://github.com/callinmullaney/testimonial_content
+projects[testimonial_content][type] = "module"
+projects[testimonial_content][subdir] = "features"
+projects[testimonial_content][download][type] = "git"
+projects[testimonial_content][download][url] = "https://github.com/callinmullaney/testimonial_content.git"
+
+; @see https://github.com/callinmullaney/career_opportunity_content
+projects[career_opportunity_content][type] = "module"
+projects[career_opportunity_content][subdir] = "features"
+projects[career_opportunity_content][download][type] = "git"
+projects[career_opportunity_content][download][url] = "https://github.com/callinmullaney/career_opportunity_content.git"
+
+; @see https://github.com/callinmullaney/alert_content
+projects[alert_content][type] = "module"
+projects[alert_content][subdir] = "features"
+projects[alert_content][download][type] = "git"
+projects[alert_content][download][url] = "https://github.com/callinmullaney/alert_content.git"
+
+; @see https://github.com/callinmullaney/faq_content
+projects[faq_content][type] = "module"
+projects[faq_content][subdir] = "features"
+projects[faq_content][download][type] = "git"
+projects[faq_content][download][url] = "https://github.com/callinmullaney/faq_content.git"
+
+; Features for Views and Contexts
+
 ; @see https://github.com/callinmullaney/manage_content_view
 projects[manage_content_view][type] = "module"
-projects[manage_content_view][subdir] = "custom"
+projects[manage_content_view][subdir] = "features"
 projects[manage_content_view][download][type] = "git"
 projects[manage_content_view][download][url] = "https://github.com/callinmullaney/manage_content_view.git"
+
+; @see https://github.com/callinmullaney/page_elements_view
+projects[page_elements_view][type] = "module"
+projects[page_elements_view][subdir] = "features"
+projects[page_elements_view][download][type] = "git"
+projects[page_elements_view][download][url] = "https://github.com/callinmullaney/page_elements_view.git"
+
+; @see https://github.com/callinmullaney/news_post_elements_view
+projects[news_post_elements_view][type] = "module"
+projects[news_post_elements_view][subdir] = "features"
+projects[news_post_elements_view][download][type] = "git"
+projects[news_post_elements_view][download][url] = "https://github.com/callinmullaney/news_post_elements_view"
 
 
 ; =============================================
