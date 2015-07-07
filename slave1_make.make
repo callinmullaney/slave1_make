@@ -259,28 +259,28 @@ projects[easy_admin][download][url] = "https://github.com/callinmullaney/easy_ad
 ;
 ; Font Awesome for Drupal
 ; @see https://github.com/JaceRider/Fawesome
-projects[Fawesome][subdir] = "custom"
-projects[Fawesome][type] = "module"
-projects[Fawesome][download][type] = "git"
-projects[Fawesome][download][url] = "https://github.com/jacerider/Fawesome.git"
+projects[fawesome][subdir] = "custom"
+projects[fawesome][type] = "module"
+projects[fawesome][download][type] = "git"
+projects[fawesome][download][url] = "https://github.com/jacerider/Fawesome.git"
 
 ; Sonar
 ;
 ; Compass compiler for Drupal
 ; @see https://github.com/JaceRider/Sonar/tree/develop
-projects[Sonar][subdir] = "custom"
-projects[Sonar][type] = "module"
-projects[Sonar][download][type] = "git"
-projects[Sonar][download][url] = "https://github.com/jacerider/Sonar.git"
+projects[sonar][subdir] = "custom"
+projects[sonar][type] = "module"
+projects[sonar][download][type] = "git"
+projects[sonar][download][url] = "https://github.com/jacerider/Sonar.git"
 
 ; Valet
 ;
 ; Compass compiler for Drupal
 ; @see https://github.com/JaceRider/Valet
-projects[Valet][subdir] = "custom"
-projects[Valet][type] = "module"
-projects[Valet][download][type] = "git"
-projects[Valet][download][url] = "https://github.com/jacerider/Valet.git"
+projects[valet][subdir] = "custom"
+projects[valet][type] = "module"
+projects[valet][download][type] = "git"
+projects[valet][download][url] = "https://github.com/jacerider/Valet.git"
 
 
 ; =============================================
