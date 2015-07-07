@@ -137,9 +137,6 @@ projects[quicktabs][version] = "3.6"
 ; Redirect
 projects[redirect][version] = "1.0-rc1"
 
-; References
-projects[references][version] = "2.1"
-
 ; Simplify
 projects[simplify][version] = "3.3"
 
