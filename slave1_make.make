@@ -96,10 +96,10 @@ projects[globalredirect][version] = "1.5"
 projects[imce][version] = "1.9"
 
 ; Inline Entity Form
-projects[inline_entity_form][version] = "1.5"
+projects[inline_entity_form][version] = "1.6"
 
 ; JQuery Update
-projects[jquery_update][version] = "2.5"
+projects[jquery_update][version] = "2.6"
 
 ; Libraries
 projects[libraries][version] = "2.2"
@@ -114,7 +114,7 @@ projects[mandrill][version] = "2.1"
 projects[mailsystem][version] = "2.34"
 
 ; Menu Block
-projects[menu_block][version] = "2.6"
+projects[menu_block][version] = "2.7"
 
 ; Meta tags quick
 projects[metatags_quick][version] = "2.9"
@@ -135,7 +135,7 @@ projects[publish_button][version] = "1.1"
 projects[quicktabs][version] = "3.6"
 
 ; Redirect
-projects[redirect][version] = "1.0-rc1"
+projects[redirect][version] = "1.0-rc3"
 
 ; Simplify
 projects[simplify][version] = "3.3"
@@ -165,7 +165,7 @@ projects[video_embed_field][version] = "2.0-beta10"
 projects[views][version] = "3.11"
 
 ; Views Bulk Operations (VBO)
-projects[views_bulk_operations][version] = "3.2"
+projects[views_bulk_operations][version] = "3.3"
 
 ; Views Content Cache
 projects[views_content_cache][version] = "3.0-alpha3"
