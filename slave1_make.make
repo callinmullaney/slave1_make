@@ -152,6 +152,9 @@ projects[textformatter][version] = "1.3"
 ; Token
 projects[token][version] = "1.6"
 
+; Tracking Code
+projects[tracking_code][version] = "1.6"
+
 ; Transliteration
 projects[transliteration][version] = "3.2"
 
@@ -304,15 +307,6 @@ projects[boushh][type] = "theme"
 projects[boushh][subdir] = "custom"
 projects[boushh][download][type] = "git"
 projects[boushh][download][url] = "https://github.com/callinmullaney/boushh"
-
-; Jango Wireframe Theme
-;
-; Nick is too cool for readme files. 
-; @see https://github.com/nickbrandt/jango
-projects[jango][type] = "theme"
-projects[jango][subdir] = "custom"
-projects[jango][download][type] = "git"
-projects[jango][download][url] = "https://github.com/nickbrandt/jango.git"
 
 
 ; =============================================
