@@ -1,8 +1,8 @@
 ; =============================================
 ; Make file created by Callin Mullaney
-; 
+;
 ; Default installation with commonly used modules
-; and configuration settings. 
+; and configuration settings.
 ;
 ; Run drush make slave1_make.make
 ;
@@ -68,7 +68,7 @@ projects[entity][version] = "1.6"
 ; Entity cache
 projects[entitycache][version] = "1.2"
 
-; Entity Reference 
+; Entity Reference
 projects[entityreference][version] = "1.1"
 
 ; Features
@@ -265,7 +265,7 @@ projects[easy_admin][download][url] = "https://github.com/callinmullaney/easy_ad
 projects[fawesome][subdir] = "custom"
 projects[fawesome][type] = "module"
 projects[fawesome][download][type] = "git"
-projects[fawesome][download][url] = "https://github.com/jacerider/Fawesome.git"
+projects[fawesome][download][url] = "https://github.com/jacerider/fawesome.git"
 
 ; Sonar
 ;
@@ -274,7 +274,7 @@ projects[fawesome][download][url] = "https://github.com/jacerider/Fawesome.git"
 projects[sonar][subdir] = "custom"
 projects[sonar][type] = "module"
 projects[sonar][download][type] = "git"
-projects[sonar][download][url] = "https://github.com/jacerider/Sonar.git"
+projects[sonar][download][url] = "https://github.com/jacerider/sonar.git"
 
 ; Valet
 ;
@@ -283,7 +283,7 @@ projects[sonar][download][url] = "https://github.com/jacerider/Sonar.git"
 projects[valet][subdir] = "custom"
 projects[valet][type] = "module"
 projects[valet][download][type] = "git"
-projects[valet][download][url] = "https://github.com/jacerider/Valet.git"
+projects[valet][download][url] = "https://github.com/jacerider/valet.git"
 
 
 ; =============================================
