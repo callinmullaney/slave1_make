@@ -1,8 +1,8 @@
 ; =============================================
 ; Make file created by Callin Mullaney
-; 
+;
 ; Default installation with commonly used modules
-; and configuration settings. 
+; and configuration settings.
 ;
 ; Run drush make slave1_make.make
 ;
@@ -68,7 +68,7 @@ projects[entity][version] = "1.6"
 ; Entity cache
 projects[entitycache][version] = "1.2"
 
-; Entity Reference 
+; Entity Reference
 projects[entityreference][version] = "1.1"
 
 ; Features
@@ -193,8 +193,6 @@ projects[xmlsitemap][version] = "2.2"
 ; Pantheon Modules - Pantheon
 ; =============================================
 
-; Set before each module - projects[][subdir] = "custom"
-
 ; Pantheon API
 ;
 ; Integration with Pantheon platform
@@ -227,13 +225,10 @@ projects[xmlsitemap][version] = "2.2"
 ; Custom Modules - Custom
 ; =============================================
 
-; Set before each module - projects[][subdir] = "custom"
-
 ; Alchemist
 ;
 ; Cyle's too cool for README
 ; @see https://github.com/jacerider/alchemist
-projects[alchemist][subdir] = "custom"
 projects[alchemist][type] = "module"
 projects[alchemist][download][type] = "git"
 projects[alchemist][download][url] = "https://github.com/jacerider/alchemist.git"
@@ -243,7 +238,6 @@ projects[alchemist][download][url] = "https://github.com/jacerider/alchemist.git
 ;
 ; A Drupal module which adds entity based assets for various uses.
 ; @see https://github.com/jacerider/asset
-projects[asset][subdir] = "custom"
 projects[asset][type] = "module"
 projects[asset][download][type] = "git"
 projects[asset][download][url] = "https://github.com/jacerider/asset.git"
@@ -253,7 +247,6 @@ projects[asset][download][url] = "https://github.com/jacerider/asset.git"
 ;
 ; Creates a client focused admin menu.
 ; @see https://github.com/callinmullaney/easy_admin
-projects[easy_admin][subdir] = "custom"
 projects[easy_admin][type] = "module"
 projects[easy_admin][download][type] = "git"
 projects[easy_admin][download][url] = "https://github.com/callinmullaney/easy_admin.git"
@@ -262,28 +255,25 @@ projects[easy_admin][download][url] = "https://github.com/callinmullaney/easy_ad
 ;
 ; Font Awesome for Drupal
 ; @see https://github.com/JaceRider/Fawesome
-projects[fawesome][subdir] = "custom"
 projects[fawesome][type] = "module"
 projects[fawesome][download][type] = "git"
-projects[fawesome][download][url] = "https://github.com/jacerider/Fawesome.git"
+projects[fawesome][download][url] = "https://github.com/jacerider/fawesome.git"
 
 ; Sonar
 ;
 ; Compass compiler for Drupal
 ; @see https://github.com/JaceRider/Sonar/tree/develop
-projects[sonar][subdir] = "custom"
 projects[sonar][type] = "module"
 projects[sonar][download][type] = "git"
-projects[sonar][download][url] = "https://github.com/jacerider/Sonar.git"
+projects[sonar][download][url] = "https://github.com/jacerider/sonar.git"
 
 ; Valet
 ;
 ; Compass compiler for Drupal
 ; @see https://github.com/JaceRider/Valet
-projects[valet][subdir] = "custom"
 projects[valet][type] = "module"
 projects[valet][download][type] = "git"
-projects[valet][download][url] = "https://github.com/jacerider/Valet.git"
+projects[valet][download][url] = "https://github.com/jacerider/valet.git"
 
 
 ; =============================================
@@ -295,7 +285,6 @@ projects[valet][download][url] = "https://github.com/jacerider/Valet.git"
 ; Fett is a basetheme of awesomeness that uses Foundation 5 and SASS.
 ; @see https://github.com/JaceRider/Fett
 projects[fett][type] = "theme"
-projects[fett][subdir] = "custom"
 projects[fett][download][type] = "git"
 projects[fett][download][url] = "https://github.com/jacerider/fett.git"
 
@@ -304,7 +293,6 @@ projects[fett][download][url] = "https://github.com/jacerider/fett.git"
 ; Because he's holding a thermal detonator!
 ; @see https://github.com/JaceRider/Fett
 projects[boushh][type] = "theme"
-projects[boushh][subdir] = "custom"
 projects[boushh][download][type] = "git"
 projects[boushh][download][url] = "https://github.com/callinmullaney/boushh"
 
