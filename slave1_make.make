@@ -26,6 +26,9 @@ projects[drupal][subdir] = ''
 ; Address Field
 projects[addressfield][version] = "1.1"
 
+; Addressfield Tokens
+projects[addressfield_tokens][version] = "1.5"
+
 ; AutoComplete Deluxe
 projects[autocomplete_deluxe][version] = "2.1"
 
@@ -136,6 +139,9 @@ projects[quicktabs][version] = "3.6"
 
 ; Redirect
 projects[redirect][version] = "1.0-rc3"
+
+; Safeword
+projects[safeword][version] = "1.13"
 
 ; Simplify
 projects[simplify][version] = "3.3"
