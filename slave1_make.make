@@ -110,6 +110,9 @@ projects[libraries][version] = "2.2"
 ; Link
 projects[link][version] = "1.3"
 
+; Linkit
+projects[linkit][version] = "3.3"
+
 ; Mandrill
 projects[mandrill][version] = "2.1"
 
