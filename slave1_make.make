@@ -134,6 +134,9 @@ projects[page_title][version] = "2.7"
 ; Pathauto
 projects[pathauto][version] = "1.2"
 
+; Pathologic
+projects[pathologic][version] = "2.12"
+
 ; Publish button
 projects[publish_button][version] = "1.1"
 
