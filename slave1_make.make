@@ -42,7 +42,7 @@ projects[better_formats][version] = "1.0-beta1"
 projects[ctools][version] = "1.7"
 
 ; Colorbox
-projects[colorbox][version] = "2.8"
+projects[colorbox][version] = "2.9"
 
 ; Content Menu
 projects[content_menu][version] = "1.0"
@@ -111,7 +111,7 @@ projects[libraries][version] = "2.2"
 projects[link][version] = "1.3"
 
 ; Linkit
-projects[linkit][version] = "3.3"
+projects[linkit][version] = "3.4"
 
 ; Mandrill
 projects[mandrill][version] = "2.1"
@@ -195,7 +195,7 @@ projects[views_slideshow][version] = "3.1"
 projects[bxslider_views_slideshow][version] = "1.50"
 
 ; Webform
-projects[webform][version] = "4.9"
+projects[webform][version] = "4.10"
 
 ; XML sitemap
 projects[xmlsitemap][version] = "2.2"
