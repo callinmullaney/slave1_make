@@ -301,7 +301,7 @@ projects[valet][download][url] = "https://github.com/jacerider/valet.git"
 ; Fett Base Theme
 ;
 ; Fett is a basetheme of awesomeness that uses Foundation 5 and SASS.
-; @see https://github.com/JaceRider/Fett
+; @see https://github.com/JaceRider/fett
 projects[fett][type] = "theme"
 projects[sonar][subdir] = ""
 projects[fett][download][type] = "git"
@@ -310,11 +310,11 @@ projects[fett][download][url] = "https://github.com/jacerider/fett.git"
 ; Boushh Admin Theme
 ;
 ; Because he's holding a thermal detonator!
-; @see https://github.com/JaceRider/Fett
+; @see https://github.com/JaceRider/boushh
 projects[boushh][type] = "theme"
 projects[sonar][subdir] = ""
 projects[boushh][download][type] = "git"
-projects[boushh][download][url] = "https://github.com/callinmullaney/boushh"
+projects[boushh][download][url] = "https://github.com/jacerider/boushh.git"
 
 
 ; =============================================
