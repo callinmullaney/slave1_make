@@ -167,9 +167,6 @@ projects[tracking_code][version] = "1.6"
 ; Transliteration
 projects[transliteration][version] = "3.2"
 
-; Vertical Tabs Responsive
-projects[vertical_tabs_responsive][version] = "1.0-beta10"
-
 ; Video Embed Field
 projects[video_embed_field][version] = "2.0-beta10"
 
