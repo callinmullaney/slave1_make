@@ -95,9 +95,6 @@ projects[geophp][version] = "1.7"
 ; Global Redirect
 projects[globalredirect][version] = "1.5"
 
-; IMCE
-projects[imce][version] = "1.9"
-
 ; Inline Entity Form
 projects[inline_entity_form][version] = "1.6"
 
