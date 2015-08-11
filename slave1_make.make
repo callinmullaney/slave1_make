@@ -60,7 +60,7 @@ projects[default_menu_link][version] = "1.3"
 projects[devel][version] = "1.5"
 
 ; DraggableViews
-projects[draggableviews][version] = "2.0"
+projects[draggableviews][version] = "2.1"
 
 ; Email
 projects[email][version] = "1.3"
@@ -75,7 +75,7 @@ projects[entitycache][version] = "1.2"
 projects[entityreference][version] = "1.1"
 
 ; Features
-projects[features][version] = "2.5"
+projects[features][version] = "2.6"
 
 ; Field group
 projects[field_group][version] = "1.4"
@@ -186,7 +186,7 @@ projects[views_load_more][version] = "1.5"
 projects[views_slideshow][version] = "3.1"
 
 ; BxSlider Views Slideshow
-projects[bxslider_views_slideshow][version] = "1.50"
+projects[bxslider_views_slideshow][version] = "1.51"
 
 ; Webform
 projects[webform][version] = "4.10"
