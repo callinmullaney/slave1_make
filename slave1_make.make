@@ -39,7 +39,7 @@ projects[better_exposed_filters][version] = "3.2"
 projects[better_formats][version] = "1.0-beta1"
 
 ; Chaos tool suite
-projects[ctools][version] = "1.7"
+projects[ctools][version] = "1.9"
 
 ; Colorbox
 projects[colorbox][version] = "2.9"
@@ -250,7 +250,6 @@ projects[asset][subdir] = "community"
 projects[asset][download][type] = "git"
 projects[asset][download][url] = "https://github.com/jacerider/asset.git"
 
-
 ; Easy Admin
 ;
 ; Creates a client focused admin menu.
@@ -259,6 +258,15 @@ projects[easy_admin][type] = "module"
 projects[easy_admin][subdir] = "community"
 projects[easy_admin][download][type] = "git"
 projects[easy_admin][download][url] = "https://github.com/callinmullaney/easy_admin.git"
+
+; Exo
+;
+; HTML 5 editor integrated heavily with Drupal.
+; @see https://github.com/jacerider/exo
+projects[exo][type] = "module"
+projects[exo][subdir] = "community"
+projects[exo][download][type] = "git"
+projects[exo][download][url] = "https://github.com/jacerider/exo.git"
 
 ; Fawesome
 ;
