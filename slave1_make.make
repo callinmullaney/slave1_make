@@ -234,14 +234,14 @@ projects[xmlsitemap][version] = "2.2"
 ; Custom Modules - Community
 ; =============================================
 
-; Alchemist
+; Alchemist (beta)
 ;
 ; Cyle's too cool for README
 ; @see https://github.com/jacerider/alchemist
-projects[alchemist][type] = "module"
-projects[alchemist][subdir] = "community"
-projects[alchemist][download][type] = "git"
-projects[alchemist][download][url] = "https://github.com/jacerider/alchemist.git"
+; projects[alchemist][type] = "module"
+; projects[alchemist][subdir] = "community"
+; projects[alchemist][download][type] = "git"
+; projects[alchemist][download][url] = "https://github.com/jacerider/alchemist.git"
 
 
 ; Asset
@@ -354,6 +354,8 @@ libraries[lawnchair][type] = "library"
 ; =============================================
 ; Features
 ; =============================================
+
+; Features for Content Structure
 
 ; @see https://github.com/callinmullaney/page_content
 projects[page_content][type] = "module"
