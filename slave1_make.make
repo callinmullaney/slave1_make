@@ -38,6 +38,9 @@ projects[better_exposed_filters][version] = "3.2"
 ; Better Formats
 projects[better_formats][version] = "1.0-beta1"
 
+; Better Login
+projects[betterlogin][version] = "1.4"
+
 ; Chaos tool suite
 projects[ctools][version] = "1.7"
 
@@ -361,6 +364,13 @@ projects[event_content][type] = "module"
 projects[event_content][subdir] = "features"
 projects[event_content][download][type] = "git"
 projects[event_content][download][url] = "https://github.com/callinmullaney/event_content.git"
+
+; @see https://github.com/callinmullaney/location_content.git
+projects[location_content][type] = "module"
+projects[location_content][subdir] = "features"
+projects[location_content][download][type] = "git"
+projects[location_content][download][url] = "https://github.com/callinmullaney/location_content.git"
+
 
 ; @see https://github.com/callinmullaney/testimonial_content
 projects[testimonial_content][type] = "module"
