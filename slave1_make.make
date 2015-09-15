@@ -35,9 +35,6 @@ projects[autocomplete_deluxe][version] = "2.1"
 ; Better Exposed Filters
 projects[better_exposed_filters][version] = "3.2"
 
-; Better Formats
-projects[better_formats][version] = "1.0-beta1"
-
 ; Better Login
 projects[betterlogin][version] = "1.4"
 
