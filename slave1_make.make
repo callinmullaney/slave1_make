@@ -51,7 +51,7 @@ projects[content_menu][version] = "1.0"
 projects[context][version] = "3.6"
 
 ; Date
-projects[date][version] = "2.9-rc1"
+projects[date][version] = "2.9"
 
 ; Default Menu Link
 projects[default_menu_link][version] = "1.3"
@@ -81,7 +81,7 @@ projects[features][version] = "2.6"
 projects[field_group][version] = "1.4"
 
 ; File (Field) Paths
-projects[filefield_paths][version] = "1.0-beta4"
+projects[filefield_paths][version] = "1.0-rc1"
 
 ; Geocoder
 projects[geocoder][version] = "1.2"
@@ -168,7 +168,7 @@ projects[tracking_code][version] = "1.6"
 projects[transliteration][version] = "3.2"
 
 ; Video Embed Field
-projects[video_embed_field][version] = "2.0-beta10"
+projects[video_embed_field][version] = "2.0-beta11"
 
 ; Views
 projects[views][version] = "3.11"
