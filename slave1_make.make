@@ -129,7 +129,7 @@ projects[module_filter][version] = "2.0"
 projects[page_title][version] = "2.7"
 
 ; Pathauto
-projects[pathauto][version] = "1.2"
+projects[pathauto][version] = "1.3"
 
 ; Pathologic
 projects[pathologic][version] = "2.12"
