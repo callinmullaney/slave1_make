@@ -188,6 +188,9 @@ projects[views_slideshow][version] = "3.1"
 ; BxSlider Views Slideshow
 projects[bxslider_views_slideshow][version] = "1.51"
 
+; Vocabulary Permissions Per Role
+projects[vppr][version] = "1.0"
+
 ; Webform
 projects[webform][version] = "4.10"
 
