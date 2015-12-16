@@ -228,16 +228,6 @@ projects[xmlsitemap][version] = "2.2"
 ; Custom Modules - Community
 ; =============================================
 
-; Alchemist (beta)
-;
-; Cyle's too cool for README
-; @see https://github.com/jacerider/alchemist
-; projects[alchemist][type] = "module"
-; projects[alchemist][subdir] = "community"
-; projects[alchemist][download][type] = "git"
-; projects[alchemist][download][url] = "https://github.com/jacerider/alchemist.git"
-
-
 ; Asset
 ;
 ; A Drupal module which adds entity based assets for various uses.
@@ -319,10 +309,17 @@ projects[fett][download][url] = "https://github.com/jacerider/fett.git"
 ;
 ; Because he's holding a thermal detonator!
 ; @see https://github.com/JaceRider/boushh
-projects[boushh][type] = "theme"
-projects[boushh][subdir] = ""
-projects[boushh][download][type] = "git"
-projects[boushh][download][url] = "https://github.com/jacerider/boushh.git"
+; projects[boushh][type] = "theme"
+; projects[boushh][subdir] = ""
+; projects[boushh][download][type] = "git"
+; projects[boushh][download][url] = "https://github.com/jacerider/boushh.git"
+
+; Adminimal Theme
+;
+; @see https://www.drupal.org/project/adminimal_theme
+projects[adminimal_theme][type] = "theme"
+projects[adminimal_theme][subdir] = ""
+projects[adminimal_theme][version] = "1.23" 
 
 
 ; =============================================
