@@ -44,9 +44,6 @@ projects[ctools][version] = "1.9"
 ; Colorbox
 projects[colorbox][version] = "2.9"
 
-; Content Menu
-projects[content_menu][version] = "1.0"
-
 ; Context
 projects[context][version] = "3.6"
 
@@ -79,6 +76,9 @@ projects[features][version] = "2.6"
 
 ; Field group
 projects[field_group][version] = "1.4"
+
+; Flexslider
+projects[flexslider][version] = "2.0-rc1"
 
 ; File (Field) Paths
 projects[filefield_paths][version] = "1.0-rc1"
@@ -182,12 +182,6 @@ projects[views_content_cache][version] = "3.0-alpha3"
 ; Views Load More
 projects[views_load_more][version] = "1.5"
 
-; Views Slideshow
-projects[views_slideshow][version] = "3.1"
-
-; BxSlider Views Slideshow
-projects[bxslider_views_slideshow][version] = "1.51"
-
 ; Vocabulary Permissions Per Role
 projects[vppr][version] = "1.0"
 
@@ -289,6 +283,15 @@ projects[sonar][subdir] = "community"
 projects[sonar][download][type] = "git"
 projects[sonar][download][url] = "https://github.com/jacerider/sonar.git"
 
+; TheForce
+;
+; An admin menu interface for Drupal. My the force be with you. Always.
+; @see https://github.com/jacerider/theforce
+projects[theforce][type] = "module"
+projects[theforce][subdir] = "community"
+projects[theforce][download][type] = "git"
+projects[theforce][download][url] = "https://github.com/jacerider/theforce.git"
+
 ; Valet
 ;
 ; Compass compiler for Drupal
@@ -337,6 +340,12 @@ libraries[colorbox][download][type] = "get"
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/1.x.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
+
+; FlexSlider
+libraries[flexslider][download][type] = "get"
+libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/archive/master.zip"
+libraries[flexslider][directory_name] = "flexslider"
+libraries[flexslider][type] = "library"
 
 ; JQuery.Hotkeys
 libraries[jquery.hotkeys][download][type] = "get"
