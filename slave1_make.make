@@ -41,9 +41,6 @@ projects[betterlogin][version] = "1.4"
 ; Chaos tool suite
 projects[ctools][version] = "1.9"
 
-; Colorbox
-projects[colorbox][version] = "2.9"
-
 ; Context
 projects[context][version] = "3.6"
 
@@ -237,15 +234,6 @@ projects[asset][subdir] = "community"
 projects[asset][download][type] = "git"
 projects[asset][download][url] = "https://github.com/jacerider/asset.git"
 
-; Easy Admin
-;
-; Creates a client focused admin menu.
-; @see https://github.com/callinmullaney/easy_admin
-projects[easy_admin][type] = "module"
-projects[easy_admin][subdir] = "community"
-projects[easy_admin][download][type] = "git"
-projects[easy_admin][download][url] = "https://github.com/callinmullaney/easy_admin.git"
-
 ; Exo
 ;
 ; HTML 5 editor integrated heavily with Drupal.
@@ -305,15 +293,6 @@ projects[fett][subdir] = ""
 projects[fett][download][type] = "git"
 projects[fett][download][url] = "https://github.com/jacerider/fett.git"
 
-; Boushh Admin Theme
-;
-; Because he's holding a thermal detonator!
-; @see https://github.com/JaceRider/boushh
-; projects[boushh][type] = "theme"
-; projects[boushh][subdir] = ""
-; projects[boushh][download][type] = "git"
-; projects[boushh][download][url] = "https://github.com/jacerider/boushh.git"
-
 ; Adminimal Theme
 ;
 ; @see https://www.drupal.org/project/adminimal_theme
@@ -331,12 +310,6 @@ libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.4.7/ckeditor_4.4.7_full.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
-
-; Colorbox
-libraries[colorbox][download][type] = "get"
-libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/1.x.zip"
-libraries[colorbox][directory_name] = "colorbox"
-libraries[colorbox][type] = "library"
 
 ; FlexSlider
 libraries[flexslider][download][type] = "get"
@@ -400,12 +373,6 @@ projects[career_opportunity_content][subdir] = "features"
 projects[career_opportunity_content][download][type] = "git"
 projects[career_opportunity_content][download][url] = "https://github.com/callinmullaney/career_opportunity_content.git"
 
-; @see https://github.com/callinmullaney/alert_content
-projects[alert_content][type] = "module"
-projects[alert_content][subdir] = "features"
-projects[alert_content][download][type] = "git"
-projects[alert_content][download][url] = "https://github.com/callinmullaney/alert_content.git"
-
 ; @see https://github.com/callinmullaney/faq_content
 projects[faq_content][type] = "module"
 projects[faq_content][subdir] = "features"
@@ -413,12 +380,6 @@ projects[faq_content][download][type] = "git"
 projects[faq_content][download][url] = "https://github.com/callinmullaney/faq_content.git"
 
 ; Features for Views and Contexts
-
-; @see https://github.com/callinmullaney/manage_content_view
-projects[manage_content_view][type] = "module"
-projects[manage_content_view][subdir] = "features"
-projects[manage_content_view][download][type] = "git"
-projects[manage_content_view][download][url] = "https://github.com/callinmullaney/manage_content_view.git"
 
 ; @see https://github.com/callinmullaney/page_elements_view
 projects[page_elements_view][type] = "module"
