@@ -69,16 +69,16 @@ projects[entitycache][version] = "1.2"
 projects[entityreference][version] = "1.1"
 
 ; Features
-projects[features][version] = "2.6"
+projects[features][version] = "2.7"
 
 ; Field group
-projects[field_group][version] = "1.4"
+projects[field_group][version] = "1.5"
 
 ; Flexslider
 projects[flexslider][version] = "2.0-rc1"
 
 ; File (Field) Paths
-projects[filefield_paths][version] = "1.0-rc1"
+projects[filefield_paths][version] = "1.0"
 
 ; Geocoder
 projects[geocoder][version] = "1.2"
@@ -96,16 +96,16 @@ projects[globalredirect][version] = "1.5"
 projects[inline_entity_form][version] = "1.6"
 
 ; JQuery Update
-projects[jquery_update][version] = "2.6"
+projects[jquery_update][version] = "2.7"
 
 ; Libraries
 projects[libraries][version] = "2.2"
 
 ; Link
-projects[link][version] = "1.3"
+projects[link][version] = "1.4"
 
 ; Linkit
-projects[linkit][version] = "3.4"
+projects[linkit][version] = "3.5"
 
 ; Mandrill
 projects[mandrill][version] = "2.1"
@@ -168,7 +168,7 @@ projects[transliteration][version] = "3.2"
 projects[video_embed_field][version] = "2.0-beta11"
 
 ; Views
-projects[views][version] = "3.11"
+projects[views][version] = "3.13"
 
 ; Views Bulk Operations (VBO)
 projects[views_bulk_operations][version] = "3.3"
