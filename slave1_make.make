@@ -129,7 +129,7 @@ projects[page_title][version] = "2.7"
 projects[pathauto][version] = "1.3"
 
 ; Pathologic
-projects[pathologic][version] = "2.12"
+projects[pathologic][version] = "3.1"
 
 ; Publish button
 projects[publish_button][version] = "1.1"
