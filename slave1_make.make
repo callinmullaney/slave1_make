@@ -107,6 +107,9 @@ projects[link][version] = "1.4"
 ; Linkit
 projects[linkit][version] = "3.5"
 
+; Manual Crop
+projects[manualcrop][version] = "1.5"
+
 ; Mandrill
 projects[mandrill][version] = "2.1"
 
@@ -329,6 +332,17 @@ libraries[lawnchair][download][url] = "http://brian.io/lawnchair/downloads/lawnc
 libraries[lawnchair][directory_name] = "lawnchair"
 libraries[lawnchair][type] = "library"
 
+; Images Loaded
+libraries[imagesloaded][download][type] = "get"
+libraries[imagesloaded][download][url] = "http://imagesloaded.desandro.com/imagesloaded.pkgd.min.js"
+libraries[imagesloaded][directory_name] = "jquery.imagesloaded"
+libraries[imagesloaded][type] = "library"
+
+; ImgAreaSelect
+libraries[imgareaselect][download][type] = "get"
+libraries[imgareaselect][download][url] = "http://odyniec.net/projects/imgareaselect/jquery.imgareaselect-0.9.10.zip"
+libraries[imgareaselect][directory_name] = "jquery.imgareaselect"
+libraries[imgareaselect][type] = "library"
 
 ; =============================================
 ; Features
