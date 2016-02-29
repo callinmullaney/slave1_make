@@ -24,7 +24,7 @@ projects[drupal][subdir] = ''
 ; =============================================
 
 ; Address Field
-projects[addressfield][version] = "1.1"
+projects[addressfield][version] = "1.2"
 
 ; Addressfield Tokens
 projects[addressfield_tokens][version] = "1.5"
@@ -63,7 +63,7 @@ projects[email][version] = "1.3"
 projects[entity][version] = "1.6"
 
 ; Entity cache
-projects[entitycache][version] = "1.2"
+projects[entitycache][version] = "1.5"
 
 ; Entity Reference
 projects[entityreference][version] = "1.1"
@@ -81,7 +81,7 @@ projects[flexslider][version] = "2.0-rc1"
 projects[filefield_paths][version] = "1.0"
 
 ; Geocoder
-projects[geocoder][version] = "1.2"
+projects[geocoder][version] = "1.3"
 
 ; Geofield
 projects[geofield][version] = "2.3"
@@ -156,7 +156,7 @@ projects[special_menu_items][version] = "2.0"
 projects[strongarm][version] = "2.0"
 
 ; Text List Formatter
-projects[textformatter][version] = "1.3"
+projects[textformatter][version] = "1.4"
 
 ; Token
 projects[token][version] = "1.6"
